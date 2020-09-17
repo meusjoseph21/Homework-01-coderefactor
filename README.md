@@ -9,7 +9,7 @@ All changes made in the HTML have been listed with a comment next to the change.
 
 After correcting the code in the HTML page, I reorganized the CSS file to follow the semantic structure of the web page in the HTML doc. I further organized this structure with comments indicating which section each CSS style is in with relationship to its HTML location.
 
-This is the link to the live website on GitHub: https://meusjoseph21.github.io/Homework-01-coderefactor/#social-media-marketing
+This is the link to the live website on GitHub: https://meusjoseph21.github.io/Homework-01-coderefactor/
 
 
 Screenshot of live website:
