@@ -5,6 +5,8 @@ In this refactor for Horiseon Marketing Agency I went into the code and added se
 
 I also added alt attributes to all images on the web page to make it more accessible. Along with alt attributes I added an new website title that relates more to the company and allows their name to be seen more. 
 
+An ID tag was also added to the search engine optimization section so that on click in the nav, a user would be moved to that section.
+
 All changes made in the HTML have been listed with a comment next to the change. 
 
 After correcting the code in the HTML page, I reorganized the CSS file to follow the semantic structure of the web page in the HTML doc. I further organized this structure with comments indicating which section each CSS style is in with relationship to its HTML location.
