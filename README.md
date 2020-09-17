@@ -13,3 +13,5 @@ This is the link to the live website on GitHub: https://meusjoseph21.github.io/H
 
 
 Screenshot of live website:
+
+<img src="./assets/images/screenshot.png">
